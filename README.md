@@ -1,2 +1,3 @@
-# graph_theory_project_year_3
-A third year project on Graph Isomorphism for Graph Theory Module
+# Graph Theory Project Year 3
+## The Graph Isomorphism Problem
+A project on "The Graph Isomorphism Problem" For Third Year Graph Theory
